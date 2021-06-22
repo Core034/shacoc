@@ -8,7 +8,7 @@
                                 
                                 
 
-https://github.com/Core034/shacoc/blob/main/README.md
+
 
 
 don t run this malware on real pc
